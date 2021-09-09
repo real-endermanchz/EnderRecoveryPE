@@ -58,6 +58,7 @@ There are also some more basic tools such as:
 ### Download Link
 
 As for this project, I've decided to make it public so that everyone can use it freely. 📂
+Download here: https://drive.google.com/file/d/1tuGGeWbCH1ojJFSF7N_mhj31wn4CZHQ3/view?usp=sharing
 
 
 
